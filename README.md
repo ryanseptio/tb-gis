@@ -1,4 +1,4 @@
-Aplikasi ini ditujukan untuk matakuliah GIS1
+Aplikasi ini ditujukan untuk matakuliah GIS
 Oleh :
 Nama: Ryan Septio
 NPM: 1134010
